@@ -23,6 +23,7 @@ Through this review process, I've identified these areas for continued learning:
 Topic/Concept 1: Inheretence, overall understanding how it works.
 
 Programming practice: understand frq questions, specifically their context faster.
+
 Resources
 
 Resources I found helpful during my exam preparation and review:
