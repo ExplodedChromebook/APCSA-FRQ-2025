@@ -7,7 +7,18 @@ public class sumOrSameGame{
       puzzle[x][y]=(int)(Math.random()*9-1+1)+1;
     }
   }
-  public boolean clearPair(int row,int cols){
-    
+  public boolean clearPair(int rows, int cols){
+    for(int x=rows; x<puzzle.length; x++){
+        for(int y = 0; y<puzzles[0].length; y++){
+            if(x != rows || y != cols){
+                if(puzzle[rows][cols] == puzzle[x][y] || puzzle[rows][cols] + puzzle[x][y] == 10){
+                    puzzle[rows][cols] = 0;
+                    puzzle[x][y] = 0;
+                    return true;
+                }
+            }
+        }
+    }
+    return false;
   }
 }
