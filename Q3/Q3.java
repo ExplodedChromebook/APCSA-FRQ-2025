@@ -1,4 +1,5 @@
 Class Round{
+  //Part A
   private String name;
   private int rank;
   public Round(String[] list){
@@ -8,6 +9,7 @@ Class Round{
       rank++;
     }
   }
+  //Part B
   public Array<Match> buildMatch(){
     ArrayList<Match> matches = ArrayList<Match>();
     int index = 0;
