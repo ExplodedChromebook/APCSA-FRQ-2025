@@ -1,5 +1,5 @@
 AP-FRQs-2025
-Solutions written by Joshua Hans
+Solutions written by David Sanchez
 
 Introduction
 This repository contains my solutions and reflections for the AP Computer Science exam taken on 5/7/2025. While reviewing the released questions, I've documented my approach, insights gained, and areas for future growth.
