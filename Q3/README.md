@@ -8,6 +8,7 @@ Write out the scenario and how the methods work on paper.
 
 My revised solution after review:
 *I forgot to write new in some lines of code*
+
 Key concepts tested in this question:
 
 ArrayList syntax and problem solving skills + loops
